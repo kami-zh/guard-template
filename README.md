@@ -8,6 +8,8 @@ Guardで各種ファイルを監視します。
 ## Structure
 
 本テンプレートは以下のような構造となっています。
+`/app`下のHaml/SCSS/CoffeeScriptを編集すると、`/public`下にHTML/CSS/JavaScriptが自動生成されます。
+
 各種パス名を変更する場合は、`Guardfile`を編集してください。
 
 ```
