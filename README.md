@@ -1,4 +1,4 @@
-# Guard Template: Template for front-end development with Guard
+# Guard Template
 
 Haml/SCSS/CoffeeScriptを用いてフロントエンドを開発するためのテンプレートです。
 Guardで各種ファイルを監視します。
