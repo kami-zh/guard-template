@@ -21,6 +21,7 @@ Guardで各種ファイルを監視します。
   /coffeescripts        # CoffeeScript配置ディレクトリ
     application.coffee
 /public                 # HTML生成ディレクトリ
+  /images               # 画像配置ディレクトリ
   /javascripts          # JavaScript生成ディレクトリ
     application.js
   /stylesheets          # CSS生成ディレクトリ
